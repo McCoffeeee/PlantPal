@@ -1,0 +1,2 @@
+# PlantPal
+Plant monitoring system
